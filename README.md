@@ -1,2 +1,2 @@
-#BY RAFLY
+# CRUD Typescript
 Saya membuat program sederhana CRUD anda dapat mempelajari kode ini untuk membuat sistem crud, selamat mencoba
